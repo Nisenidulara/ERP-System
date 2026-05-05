@@ -54,7 +54,7 @@ A full-stack ERP web application built with **PHP**, **MySQL**, **Bootstrap 5**,
 
 ```bash
 # If using Git
-git clone https://github.com/YOUR_USERNAME/csquare-erp.git
+git clone https://github.com/Nisenidulara/ERP-System.git
 
 # Or extract the ZIP into your web root
 # XAMPP: C:\xampp\htdocs\csquare-erp\
@@ -138,7 +138,7 @@ csquare-erp/
 
 ## GitHub Repository
 
-[https://github.com/YOUR_USERNAME/csquare-erp](https://github.com/YOUR_USERNAME/csquare-erp)
+[https://github.com/Nisenidulara/ERP-System](https://github.com/Nisenidulara/ERP-System)
 
 ---
 
