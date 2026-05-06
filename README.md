@@ -16,7 +16,7 @@ A full-stack ERP web application built with **PHP**, **MySQL**, **Bootstrap 5**,
 
 ---
 
-##Key Highlights
+## Key Highlights
 - Modular PHP architecture (separation of concerns)
 - Clean and responsive UI using Bootstrap 5
 - Dynamic data handling with JavaScript
