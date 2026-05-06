@@ -16,6 +16,14 @@ A full-stack ERP web application built with **PHP**, **MySQL**, **Bootstrap 5**,
 
 ---
 
+##Key Highlights
+- Modular PHP architecture (separation of concerns)
+- Clean and responsive UI using Bootstrap 5
+- Dynamic data handling with JavaScript
+- SQL-based reporting using JOIN, GROUP BY, and filtering
+- Form validation for data integrity
+- Print-friendly report pages
+
 ## Assumptions
 
 1. The system uses **Sri Lanka's 25 districts** as the district options for customers.
